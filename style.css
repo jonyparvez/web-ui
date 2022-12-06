@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.nav-container{
+    display: flex;
+    justify-content: center;
+}
+
+.menu-btn-li{
+    display: flex;
+}
+
+.menu-btn-li li{
+    margin-left: 30px;
+    list-style-type: none;
+}
+.menu-btn-li a{
+    text-decoration: none;
+    color: rgb(112, 112, 112);
+}
+
+
+
+.head-container{
+    display: flex;
+}
+
+
+
+.kichu-kotha{
+    text-align: center;
+    background-color: red;
+    color: white;
+}
